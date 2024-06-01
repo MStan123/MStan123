@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MStan123
-- 👀 I’m interested in C++ coding
+- 👀 I’m interested in various topics related to DS and ML
 - 🎓 I am studying Applied Mathematics and Computer Science at the Lomonosov Moscow State University
 
 <!---
